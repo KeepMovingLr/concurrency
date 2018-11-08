@@ -1,2 +1,2 @@
 # concurrency
-concurrency study and record
+concurrency record
